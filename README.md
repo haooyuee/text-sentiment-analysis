@@ -45,7 +45,6 @@ To reproduce the TextCNN, run the following notebooks in the given order and fol
 - `DataPrepare.ipynb` 
 - `TrainW2V.ipynb`
 - `TextCNN.ipynb`
-<<<<<<< HEAD
 
 # Introduction {#sec:intro}
 
