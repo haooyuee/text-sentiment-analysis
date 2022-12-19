@@ -1,4 +1,4 @@
-# IFT6390_Kaggle_Competition_2 - ShengHaoyue LiYiChong MaLinrui
+# IFT6390_Kaggle_Competition_2
 
 # Overview
 - We are provided with over 1 million texts which are annotated as negative, positive and neutral. The task
