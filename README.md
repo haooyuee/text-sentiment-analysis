@@ -1,16 +1,4 @@
 # IFT6390_Kaggle_Competition_2 - ShengHaoyue LiYiChong MaLinrui
-# Info
-Name1:               Haoyue Sheng 
-Matricule:          20239178 
-Kaggle username:    shenghaoyue
-
-Name2:               LiYiChong
-Matricule:          20122756
-Kaggle username:    Yi Cong Li
-
-Name3:               MaLinrui
-Matricule:          20241195 
-Kaggle username:    Linrui Ma 
 
 # Overview
 - We are provided with over 1 million texts which are annotated as negative, positive and neutral. The task
