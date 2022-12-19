@@ -45,6 +45,7 @@ To reproduce the TextCNN, run the following notebooks in the given order and fol
 - `DataPrepare.ipynb` 
 - `TrainW2V.ipynb`
 - `TextCNN.ipynb`
+<<<<<<< HEAD
 
 # Introduction {#sec:intro}
 
@@ -429,3 +430,5 @@ Raghav Agrawal, Must Known Techniques for text preprocessing in NLP\
 <https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a>\
 [https://blog.csdn.net/qq_32505207/article/details/107029807](https://blog.csdn.net/qq_32505207/article/details/107029807 )\
 [https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html )
+=======
+>>>>>>> 09a329bf5d91839e996adde47c80a762d40f90eb
