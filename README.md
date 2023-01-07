@@ -72,7 +72,7 @@ same as the data set, the correct prediction of the neutral text has
 very little impact on the overall accuracy. We will not apply data
 augmentation for now.
 
-![image](figure2/number of label.png){width="0.5\\linewidth"} []{#fig:ex
+![image](figure2/number_of_label.png){width="0.5\\linewidth"} []{#fig:ex
 label="fig:ex"}
 
 \
@@ -406,6 +406,12 @@ much shorter:\
     still far from perfect, but it does recognize some positive patterns
     such as the words "prefer" or "anyway" which could give a positive
     sentiment in most cases.
+    
+   
+    ![image](figure2/explain1_1.png)
+    ![image](figure2/explain1_2.png)
+    ![image](figure2/explain2_1.png)
+    ![image](figure2/explain2_2.png)
 
 # Statement of Contributions
 
