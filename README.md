@@ -423,17 +423,3 @@ much shorter:\
 
 -   **Luirui Ma:** TextCNN with word2vec and rapport
 
-# References
-
-Kajal Kumari, Sentiment classification using NLP With Text Analytics\
-<https://www.analyticsvidhya.com/blog/2021/09/sentiment-classification-using-nlp-with-text-analytics/>\
-Raghav Agrawal, Must Known Techniques for text preprocessing in NLP\
-<https://www.analyticsvidhya.com/blog/2021/06/must-known-techniques-for-text-preprocessing-in-nlp/>\
-<https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html>\
-[https://lime-ml.readthedocs.io/en/latest/](https://lime-ml.readthedocs.io/en/latest/ )\
-<https://marcotcr.github.io/lime/tutorials/Lime%20%20basic%20usage%2C%20two%20class%20case.html>\
-<https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a>\
-[https://blog.csdn.net/qq_32505207/article/details/107029807](https://blog.csdn.net/qq_32505207/article/details/107029807 )\
-[https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html](https://pytorch.org/tutorials/beginner/text_sentiment_ngrams_tutorial.html )
-=======
->>>>>>> 09a329bf5d91839e996adde47c80a762d40f90eb
